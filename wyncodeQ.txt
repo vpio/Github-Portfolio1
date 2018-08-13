@@ -1,0 +1,25 @@
+```html
+
+<div>
+
+     <div class="actor">
+       <h1>Bill Murray</h1>
+       <img src="http://fillmurray.com/200/200" />
+       <a href="/users/1" class="button">View Bill's profile</a>
+     </div>
+
+     <div class="actor">
+       <h1>Nick Cage</h1>
+       <img src="http://www.placecage.com/200/200" />
+       <a href="/users/1" class="button">View Nick's profile</a>
+     </div>
+
+     <div class="actor">
+       <h1>Stevey Segal</h1>
+       <img src="https://www.stevensegallery.com/200/200" />
+       <a href="/users/3" class="button">View Stevey's profile</a>
+     </div>
+
+   </div>
+
+   ```
