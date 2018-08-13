@@ -24,4 +24,6 @@
 
    THIS IS MY EDITS!!!
 
+   These are Jeremy's edits!!!
+
    ```
